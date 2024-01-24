@@ -1,0 +1,25 @@
+.conteiner__menu-bar hr{
+    height: 5px;
+    background-color: black;
+}
+.conteiner__menu-bar ul{
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+}
+.conteiner__menu-bar ul li{
+    margin-right: 20px;
+    list-style: none;
+    font-size: 15px;
+}
+.separetor{
+    opacity: 0.3;
+}
+.search input, button{
+    border: none;
+}
+#search-input{
+    width: 100px;
+    margin-left: 100px;
+    
+}

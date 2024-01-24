@@ -1,0 +1,12 @@
+.title-conteiner h1{
+    font-size: 130px;
+    font-family: Oswald;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.title-conteiner hr{
+    height: 5px;
+    background-color: black;
+}
