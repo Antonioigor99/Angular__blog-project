@@ -1,11 +1,7 @@
-.conteiner__menu-bar hr{
-    height: 5px;
-    background-color: black;
-}
+
 .conteiner__menu-bar ul{
     display: flex;
     flex-direction: row;
-    margin-left: 150px;
 }
 .conteiner__menu-bar ul li{
     margin-right: 20px;
@@ -19,7 +15,6 @@
     border: none;
 }
 #search-input{
-    width: 100px;
-    margin-left: 100px;
+    width: 70px;
     
 }

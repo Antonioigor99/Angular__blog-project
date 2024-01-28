@@ -1,21 +1,22 @@
 .conteiner__small-card{
-    
     width: 250px;
     margin-right: 50px;
     margin-top: 15px;
-    
 }
 
 .photo__small-card img{
     max-width: 100%;
-    min-width: 200px;
+    min-width: 250px;
+    height: 150px;
     border-radius: 20px;
+    
 }
 .small-card__title{
     margin-top: 5px;
     margin-left: 5px;
-    width: 90%
+    width: 100%;
 }
 .small-card__title h1{
     font-size: 15px;
+    font-weight: bold;
 }

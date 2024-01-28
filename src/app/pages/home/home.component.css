@@ -1,25 +1,19 @@
-.conteiner__menu-bar{
-    margin-left: 40px;
-}
+
 .conteiner__articles{
     margin-top: 35px;
-    margin-left: 150px;
     display: flex;
-    flex-direction: row ;
+    justify-content: center;
+    
+}
+
+.article__main{
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
 }
 .article__others{
     display: grid;
     grid-template-columns: 1fr 1fr;
+    margin-left: 20px;
     
-}
-header{
-    display: flex;
-    justify-content: center;
-}
-hr{
-    height: 5px;
-    background-color: black;
-}
-.conteiner__menu-bar{
-    margin-left: 60px;
 }
